@@ -28,7 +28,7 @@ git clone <repository-url>
 2. Navigate to the project directory:
 
 ```bash
-cd Video_Segmentation_Tool
+cd video-segmentation-tool
 ```
 
 3. Navigate to the `dist` directory:
